@@ -11,7 +11,8 @@ These small tools are what came out of that. Every one of them exists because so
 - [never-worse-backup](https://github.com/justin-rhee/never-worse-backup). A git auto-backup that stops before it can lose your work or leak a secret.
 - [bash-havoc-guard](https://github.com/justin-rhee/bash-havoc-guard). A Claude Code hook that stops an agent leaking secrets or destroying files.
 
-Each one is small, with an offline test suite, and honest about what it can't do. If a check can be fooled, I say how, right on the page.
+Each one is small, with an offline test suite, and honest about what it can't do. 
+If a check can be fooled, I say how, right on the page.
 
 ## Tell me what I've missed
 
