@@ -1,6 +1,6 @@
 # Justin Rhee
 
-Hi. I'm a designer building agent harnesses on OpenClaw and Claude Code, mostly by getting things wrong and then fixing them. These small tools are the fixes. Putting them up in case they save you the week they cost me.
+Hi. I'm a designer building agent workflows and harnesses on OpenClaw. These small tools are the fixes from the things I've gotten wrong and often rebuilt many times over. Sharing them here in case they can be help to others.
 
 ## The tools
 
@@ -9,8 +9,8 @@ Hi. I'm a designer building agent harnesses on OpenClaw and Claude Code, mostly 
 - [never-worse-backup](https://github.com/justin-rhee/never-worse-backup). A git auto-backup that stops before it can lose your work or leak a secret.
 - [bash-havoc-guard](https://github.com/justin-rhee/bash-havoc-guard). A Claude Code hook that stops an agent leaking secrets or destroying files.
 
-Each one is small, with an offline test suite, and honest about what it can't do. 
-If a check can be fooled, I say how, right on the page.
+Each one is small, with offline tests, and honest about what it can't do. 
+If a check can be fooled, I mention how in each package.
 
 ## Tell me what I've missed
 
