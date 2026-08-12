@@ -1,8 +1,6 @@
 # Justin Rhee
 
-Hi. I'm a designer building agent harnesses on OpenClaw and Claude Code, mostly by getting things wrong and then fixing them.
-
-These small tools are what came out of that. Every one of them exists because something broke, I lost time to it, and I wanted to make sure it couldn't happen the same way twice.
+Hi. I'm a designer building agent harnesses on OpenClaw and Claude Code, mostly by getting things wrong and then fixing them. These small tools are the fixes. Putting them up in case they save you the week they cost me.
 
 ## The tools
 
