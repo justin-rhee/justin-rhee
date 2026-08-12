@@ -15,4 +15,4 @@ Each one is small, with an offline test suite, and honest about what it can't do
 
 ## Tell me what I've missed
 
-I know these aren't perfect. If you spot a gap or catch me getting something wrong, open an issue. That's usually how I learn.
+If you spot a gap or catch me getting something wrong, open an issue. I'd be grateful.
