@@ -2,9 +2,7 @@
 
 Hi, I’m a designer building agent workflows and harnesses with OpenClaw.
 
-These are tools I made after running into problems in my own work, sometimes after a few bad first attempts. I’m sharing them in case they save you some time.
-
-Each README starts with the problem that prompted the tool and what I learned from the first version.
+These are the fixes for things I got wrong, some rebuilt more times than I'd like to admit. Sharing them in case you're hitting the same walls.
 
 ## Keeping an agent inside the lines
 
