@@ -13,4 +13,5 @@ A few notes I’ve been keeping while building agent workflows over the past eig
 - Revisit rules that become less useful when enforced too rigidly.
 - Write down the failure that led to each rule.
 
+
 Last updated August 2026
