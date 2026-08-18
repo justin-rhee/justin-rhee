@@ -1,8 +1,10 @@
 # Justin Rhee
 
-Hi, I'm a designer building agent workflows and harnesses on OpenClaw. Every tool here exists because something broke first. These are the fixes for things I got wrong, some rebuilt more times than I'd like to admit. Sharing them in case you're hitting the same walls.
+Hi, I’m a designer building agent workflows and harnesses with OpenClaw.
 
-The failure that bought each tool is written at the top of its README, including the times my first fix was wrong.
+Most of the tools here started as something I needed to fix—often after getting it wrong once or twice. I’m sharing them in case you run into the same problems.
+
+Each project’s README starts with the issue that led to it, including when the first solution didn’t hold up.
 
 ## Keeping an agent inside the lines
 
