@@ -35,12 +35,10 @@ The failure that bought each tool is written at the top of its README, including
 - [dash-gate](https://github.com/justin-rhee/dash-gate). Bans em and en dashes from the strings your users actually see.
 - [deid-allowlist](https://github.com/justin-rhee/deid-allowlist). Drops every field you didn't explicitly allow, before a record leaves your machine.
 
-Each one is small, tested offline, and honest about what it can't do. If a check can be fooled, its README says how.
+Each one is small, tested offline, and honest about what it can't do. Every way I've found to fool one is written down in its README. There are probably others I haven't hit yet.
 
-## What building these taught me
-
-The tools are the easy part to show. The reasoning is in [LESSONS.md](LESSONS.md): what I got wrong, what it cost, and the rules I follow now because of it. The short version: a check that reports success without having run is worse than no check at all.
+What I learned building them is in [LESSONS.md](LESSONS.md).
 
 ## Tell me what I've missed
 
-If you spot a gap, or catch me getting something wrong, open an issue. I'd be grateful.
+If you spot a gap, or something just looks off, open an issue. I'd be grateful.
