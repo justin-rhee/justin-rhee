@@ -1,8 +1,9 @@
 # Justin Rhee
 
-Hi, I’m a designer building agent workflows and harnesses with OpenClaw.
+Hi, I’m a designer building agent harnesses with OpenClaw and Claude Code.
 
-These are the fixes for things I got wrong, some rebuilt more times than I'd like to admit. Sharing them in case you're hitting the same walls.
+Here are a few small tools I’ve built to make building with agents easier. Some took more than one try.
+
 
 ## Keeping an agent inside the lines
 
