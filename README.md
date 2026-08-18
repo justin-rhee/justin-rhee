@@ -2,7 +2,7 @@
 
 Hi, I’m a designer building agent harnesses with OpenClaw and Claude Code.
 
-Here are a few small tools I’ve built to make building with agents easier. Some took more than one try.
+Here are a few small tools I’ve built to make building with agents easier. I’m sharing what's helped me, in case it helps you build something too.
 
 
 ## Keeping an agent inside the lines
@@ -35,7 +35,7 @@ Here are a few small tools I’ve built to make building with agents easier. Som
 - [bash32-check](https://github.com/justin-rhee/bash32-check). Blocks the shell lines it can prove will kill your script partway through.
 - [deid-allowlist](https://github.com/justin-rhee/deid-allowlist). Drops every field you didn't explicitly allow, before a record leaves your machine.
 
-Each one is small, tested offline, and honest about what it can't do. Every way I've found to fool one is written down in its README.
+Each one is small, tested offline, and clear about its limits. The README includes the ways I’ve found to break it so far.
 
 What I learned building them is in [LESSONS.md](LESSONS.md).
 
