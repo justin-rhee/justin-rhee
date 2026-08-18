@@ -41,4 +41,4 @@ What I learned building them is in [LESSONS.md](LESSONS.md).
 
 ## Tell me what I've missed
 
-If you spot a gap, or something just looks off, open an issue. I'd be grateful.
+If you spot a gap, or something just looks off, open an issue. I'd be grateful
