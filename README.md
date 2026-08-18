@@ -32,10 +32,9 @@ The failure that bought each tool is written at the top of its README, including
 ## Catching things before they ship
 
 - [bash32-check](https://github.com/justin-rhee/bash32-check). Blocks the shell lines it can prove will kill your script partway through.
-- [dash-gate](https://github.com/justin-rhee/dash-gate). Bans em and en dashes from the strings your users actually see.
 - [deid-allowlist](https://github.com/justin-rhee/deid-allowlist). Drops every field you didn't explicitly allow, before a record leaves your machine.
 
-Each one is small, tested offline, and honest about what it can't do. Every way I've found to fool one is written down in its README. There are probably others I haven't hit yet.
+Each one is small, tested offline, and honest about what it can't do. Every way I've found to fool one is written down in its README.
 
 What I learned building them is in [LESSONS.md](LESSONS.md).
 
