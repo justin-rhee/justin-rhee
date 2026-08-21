@@ -17,6 +17,7 @@ Here are a few small tools I've built to make building with agents easier. Shari
 - [attest-check](https://github.com/justin-rhee/attest-check). Fails an agent's answer if anything you asked about went unmentioned.
 - [anchor-check](https://github.com/justin-rhee/anchor-check). Catches plans that point at code that doesn't exist.
 - [linter-selftest](https://github.com/justin-rhee/linter-selftest). A linter that proves its own rules can still fire.
+- [scar-audit](https://github.com/justin-rhee/scar-audit). Tells you which of the rules you wrote for your agent are actually being followed.
 
 ## Not losing work
 
