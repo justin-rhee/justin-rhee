@@ -1,6 +1,6 @@
 # Lessons
 
-A few notes I’ve been keeping while building agent workflows over the past eight months. They come from things that broke, surprised me, or took longer to understand than expected. I’ll add to this list as I keep learning, and I’m sharing it in case any of it is useful in your own work:
+A few notes I've been keeping while building agent workflows over the past eight months. They come from things that broke, surprised me, or took longer to understand than expected. I'll add to this list as I keep learning, and I'm sharing it in case any of it is useful in your own work:
 
 - If you pay for the same bug twice, it may be time to write a script.
 - Missing evidence is worth investigating, not treating as a pass.
