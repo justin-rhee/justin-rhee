@@ -17,6 +17,7 @@ Here are a few small tools I've built to make building with agents easier. Shari
 - [attest-check](https://github.com/justin-rhee/attest-check). Fails an agent's answer if anything you asked about went unmentioned.
 - [anchor-check](https://github.com/justin-rhee/anchor-check). Catches plans that point at code that doesn't exist.
 - [linter-selftest](https://github.com/justin-rhee/linter-selftest). A linter that proves its own rules can still fire.
+- [scar-audit](https://github.com/justin-rhee/scar-audit). Tells you which of the rules you wrote for your agent are actually being followed.
 
 ## Not losing work
 
@@ -30,10 +31,16 @@ Here are a few small tools I've built to make building with agents easier. Shari
 - [alert-redactor](https://github.com/justin-rhee/alert-redactor). Builds alerts that carry the shape of a failure and none of its content.
 - [freshness-gate](https://github.com/justin-rhee/freshness-gate). Says whether a signal is fresh, stale, or dead, from its real timestamp.
 
+## Not hitting a usage limit mid task
+
+- [openclaw-spillway](https://github.com/justin-rhee/openclaw-spillway). Moves an OpenClaw agent onto a backup lane before a usage window runs out, instead of after requests start failing.
+- [headroom](https://github.com/justin-rhee/headroom). Puts your Claude usage windows and OpenRouter spend in the macOS menu bar, so checking is one glance instead of two logins.
+
 ## Catching things before they ship
 
 - [bash32-check](https://github.com/justin-rhee/bash32-check). Blocks the shell lines it can prove will kill your script partway through.
 - [deid-allowlist](https://github.com/justin-rhee/deid-allowlist). Drops every field you didn't explicitly allow, before a record leaves your machine.
+- [inert-css](https://github.com/justin-rhee/inert-css). Finds the CSS rules that are valid, present, and quietly lose to another rule further down the file.
 
 Each one is small, tested offline, and clear about its limits. The README includes the ways I've found to break it so far.
 
