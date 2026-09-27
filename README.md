@@ -1,6 +1,6 @@
 # Justin Rhee
 
-Hi, I'm a designer building agent harnesses with OpenClaw and Claude Code.
+Hi, I'm a designer building agent harnesses.
 
 Here are a few small tools I've built to make building with agents easier. Sharing what's helped me, in case it helps you build something too:
 
