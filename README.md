@@ -1,6 +1,6 @@
 # Justin Rhee
 
-Hi, I'm a designer building agent harnesses.
+Hi, I'm a designer building agent harnesses and learning loops.
 
 Here are a few small tools I've built to make building with agents easier. Sharing what's helped me, in case it helps you build something too:
 
