@@ -27,7 +27,7 @@ Hi, I'm Justin, a product designer exploring evaluation-driven development to im
 1. Trust no check you haven't seen fail
 2. Write the prediction down before the agents start
 3. Never let the work grade itself
-4. Expect agents to game any number you enforce
+4. Expect agents to optimize the number, not necessarily the outcome
 5. Block on proof, warn on the rest
 6. Put guardrails in the structure, not the prompt
 7. Cut high-entropy code, even when it works
