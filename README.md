@@ -1,6 +1,6 @@
 # Justin Rhee
 
-Hi, I'm Justin, a product designer exploring evaluation-driven development to improve harnesses and build agent teams. I share what I've learned the hard way, in case it helps anyone else building with agents:
+Hi, I'm Justin, a product designer building with AI agents. I'm exploring how evaluations can help improve agent harnesses and sharing what I learn along the way, in case it helps someone else:
 
 ## Evidence over claims
 
