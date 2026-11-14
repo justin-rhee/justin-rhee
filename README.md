@@ -24,9 +24,9 @@ Hi, I'm Justin, a product designer building with AI agents. I'm exploring how ev
 
 ## Tenets I keep coming back to
 
-1. Trust no check you haven't seen fail
+1. Don't trust checks you haven't seen fail
 2. Write the prediction down before the agents start
-3. Never let the work grade itself
+3. Don't let agents grade their own work
 4. Expect agents to optimize the number, not necessarily the outcome
 5. Block on proof, warn on the rest
 6. Put guardrails in the structure, not the prompt
