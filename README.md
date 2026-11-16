@@ -2,6 +2,8 @@
 
 Hi, I'm Justin, a product designer building with AI agents. I'm exploring how evaluations can help improve agent harnesses and sharing what I learn along the way, in case it helps someone else:
 
+<!-- tools:start -->
+
 ## Evidence over claims
 
 - [attest-check](https://github.com/justin-rhee/attest-check): rejects a reply that leaves out anything you asked about
@@ -16,11 +18,15 @@ Hi, I'm Justin, a product designer building with AI agents. I'm exploring how ev
 - [untrusted-read](https://github.com/justin-rhee/untrusted-read): stops instructions hidden in shared notes from steering an agent
 - [transcript-redactor](https://github.com/justin-rhee/transcript-redactor): keeps credentials out of agent transcripts
 - [touchset-gate](https://github.com/justin-rhee/touchset-gate): flags any file an agent changed outside its task
+- [model-gate](https://github.com/justin-rhee/model-gate): holds your model API key so the agent never does, opens only during a session, and caps its tokens
 
 ## Many agents, one codebase
 
 - [never-worse-backup](https://github.com/justin-rhee/never-worse-backup): keeps an auto-backup from saving another session's half-finished work
 - [cas-write](https://github.com/justin-rhee/cas-write): stops one writer from silently erasing another's changes
+- [take-once](https://github.com/justin-rhee/take-once): lets several coding agents share one task list without two of them grabbing the same task
+
+<!-- tools:end -->
 
 ## Tenets I keep coming back to
 
