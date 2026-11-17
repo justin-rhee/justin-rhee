@@ -1,5 +1,5 @@
 # Justin Rhee
 
-I'm a designer and painter interested in agent harnesses. These are small tools I pulled out of my own setup and use myself every day. Hope something here helps, and if you come across any issues let me know! I read every message, and I'm also on [X](https://x.com/justinrhee_).
+I'm a designer and painter in Brooklyn building agent harnesses. Every tool here exists because something broke first in my own setup, and I still use each one myself. If you find an issue, open one. I read every one, and I'm also on [X](https://x.com/justinrhee_).
 
 <!-- tools:off -->
